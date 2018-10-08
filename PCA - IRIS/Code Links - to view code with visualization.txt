@@ -1,0 +1,7 @@
+PCA from scratch
+http://nbviewer.jupyter.org/github/vjmehul/Data-science-pet-projects/blob/master/PCA%20-%20IRIS/PCA%20analysis%20from%20scratch.ipynb
+
+
+
+PCA from scikit learn
+http://nbviewer.jupyter.org/github/vjmehul/Data-science-pet-projects/blob/master/PCA%20-%20IRIS/PCA%20on%20scikit%20learn.ipynb
